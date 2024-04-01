@@ -1,0 +1,18 @@
+.social_list{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+}
+
+.social_list li{
+    margin: 0 1em;
+}
+
+/*svg é o tipo da imagem que foi gerada (formato)*/
+
+.social_list svg{
+    font-size: 4em;
+    cursor: pointer;
+    color: blue;
+}
